@@ -1,4 +1,4 @@
-### aws-portfolio-project-5 
+### aws-portfolio-project-5 - Andrew Kremmidas 2025 - AWS Solutions Architect Associate 
 
 # Serverless Image Processing Pipeline (S3 + Lambda + Rekognition + API Gateway)
 
