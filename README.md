@@ -1,6 +1,7 @@
-README.md 
+aws-portfolio-project-5 
 
-Serverless Image Processing Pipeline (S3 + Lambda + Rekognition + API Gateway)
+# Serverless Image Processing Pipeline (S3 + Lambda + Rekognition + API Gateway)
+
 You upload an image through a simple web page or API endpoint.
 
 S3 triggers a Lambda function.
@@ -15,7 +16,7 @@ Why it’s a great portfolio piece
 
 Shows off event-driven architecture.
 
-Demonstrates S3 triggers, Lambda processing, and AI/ML integration with Rekognition.
+# Demonstrates S3 triggers, Lambda processing, and AI/ML integration with Rekognition.
 
 Uses API Gateway for secure access to analysis results.
 
