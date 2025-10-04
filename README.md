@@ -77,7 +77,7 @@ S3 Upload Bucket --+--> Lambda (ingest) ---+--> Rekognition: detect_labels()
 
 ---
 
-## 0) Prereqs & Variables
+
 
 - Region: **us-east-1** (adjust if needed)
 - AWS CLI configured
