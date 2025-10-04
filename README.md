@@ -73,11 +73,11 @@ S3 Upload Bucket --+--> Lambda (ingest) ---+--> Rekognition: detect_labels()
 - Keep uploads small (e.g., <5MB test images).
 - DynamoDB on-demand with tiny usage.
 - Rekognition has per-request charges; test sparingly.
-- When you’re done, **run the Cleanup** section.
+- When Finished, **run the Cleanup** section.
 
 ---
 
-
+### Prereqs & Variables Utilized
 
 - Region: **us-east-1** (adjust if needed)
 - AWS CLI configured
