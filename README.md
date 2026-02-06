@@ -12,9 +12,6 @@ Lambda writes the results to DynamoDB or S3 as JSON.
 
 A front-end page fetches and displays the labels and confidence scores.
 
-Why it’s a great portfolio piece
-
-Shows off event-driven architecture.
 
 # Demonstrates S3 triggers, Lambda processing, and AI/ML integration with Rekognition.
 
@@ -79,9 +76,9 @@ S3 Upload Bucket --+--> Lambda (ingest) ---+--> Rekognition: detect_labels()
 
 ### Prereqs & Variables Utilized
 
-- Region: **us-east-1** (adjust if needed)
+- Region: **us-east-1** 
 - AWS CLI configured
-- Python 3.12 (local optional)
+- Python 3.12 
 
 ```bash
 # ---- set your variables ----
